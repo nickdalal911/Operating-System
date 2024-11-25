@@ -1,4 +1,4 @@
 # Operating-system-
 
-Name: Rohit Kumar
-Roll no: 22CSU149
+Name: Nikhil Dalal
+Roll no: 22CSU478
